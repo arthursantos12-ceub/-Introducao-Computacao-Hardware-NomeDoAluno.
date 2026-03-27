@@ -79,7 +79,7 @@ Esse fato mostra que o ENIAC não foi apenas um marco do hardware, mas também u
 
 
 ### Estrutura física do equipamento
-![Programadoras do ENIAC operando a máquina](imagens/estrutura-eniac.png).
+![Programadoras do ENIAC operando a máquina](imagens/-eniac.png).
 
 ---
 
