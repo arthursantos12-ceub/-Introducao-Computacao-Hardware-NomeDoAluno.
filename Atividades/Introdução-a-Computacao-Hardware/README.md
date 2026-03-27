@@ -1,4 +1,6 @@
-# Introdução à Computação — Hardware
+# -Introducao-Computacao-Hardware.
+
+ATIVIDADE DE INTRODUÇÃO A COMPUTAÇÃO
 
 > **Atividade acadêmica de investigação de hardware**  
 > Tema: **ENIAC (Electronic Numerical Integrator and Computer)**
